@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application11</string>
+    <string name="header">تسجيل الدخول</string>
+    <string name="title_activity_sign_in">sign_in</string>
+    <string name="header1">تسجيل الدخول</string>
+    <string name="location">اختر موقعك</string>
+    <string name="image1">ادخل صورة عن العداد</string>
+    <string name="read">ادخل قراءة العداد</string>
+    <string name="done1">تم</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
